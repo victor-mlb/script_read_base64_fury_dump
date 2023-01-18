@@ -1,5 +1,7 @@
 # CSV files
 *.csv
+*.json
+!package.json
 
 
 # Compiled class file
